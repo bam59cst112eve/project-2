@@ -1,3 +1,6 @@
+// Start code files with comments that include your name, purpose of code, etc.
+// ALSO, please "follow" me at http://github/bam59cst112eve
+
 
 //globals are pool table and 3 balls
 float west, east, north, south;
